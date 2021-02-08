@@ -406,7 +406,7 @@ footer .footer-below {
     height: 50px;
     border-radius: 100%;
     font-size: 20px;
-    line-height: 28px;
+    line-height: 22px;
 }
 
 .scroll-top .btn:focus {
@@ -500,4 +500,10 @@ footer .footer-below {
 
 .main-text{
     color: #DDA0DD !important;
+}
+
+.to-top{
+    color: #DDA0DD !important;
+    background-color: white !important;
+    border-color: #DDA0DD !important;
 }
